@@ -147,11 +147,12 @@ urlpatterns = [
 ]
 ```
 # SERVER SIDE PROCESSING:
-![Screenshot 2024-12-07 205003](https://github.com/user-attachments/assets/dde7e37d-c5e2-462b-bfdd-5854337cef49)
+![Screenshot 2024-12-07 205003](https://github.com/user-attachments/assets/6b246d17-0840-4ebd-935b-2764fd81db94)
 
 
 # HOMEPAGE:
-![Screenshot 2024-12-07 205054](https://github.com/user-attachments/assets/2a5ff021-7b48-4688-be63-2287a8f02a14)
+![Screenshot 2024-12-07 204933](https://github.com/user-attachments/assets/65f39d61-fd1e-49e0-925a-0d07bd0bbe76)
+
 
 # RESULT:
 The program for performing server side processing is completed successfully.
